@@ -1,0 +1,8 @@
+rsconnect/
+auth/
+
+.Renviron
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
