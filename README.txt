@@ -1,1 +1,1 @@
-A calendar of plants native to your zip code, based on your environment and desired characteristics. Check out the tool at: https://nativase.shinyapps.io/Nativase/ 
+A calendar of plants native to your zip code, based on your environment and desired characteristics. Check out the newer version of the tool at: https://nativore.shinyapps.io/main/. Older version found at: https://nativase.shinyapps.io/Nativase/
